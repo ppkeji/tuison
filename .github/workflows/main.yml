@@ -1,3 +1,4 @@
+python -m pip install --upgrade pip -i https://pypi.doubanio.com/simple/
 name: weixin
 on:
   workflow_dispatch:
